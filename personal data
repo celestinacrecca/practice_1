@@ -1,0 +1,9 @@
+#include <stdio.h>
+ int main()
+  {
+     printf("Name: Clarissa Minta H. Lawson\n");
+     printf("Date Of Birth: July 29,2004\n");
+     printf("Mobile Number: 09743894838\n");
+
+     return(0);
+  }
